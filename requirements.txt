@@ -1,0 +1,6 @@
+streamlit
+pandas
+requests
+requests-auth
+python-dotenv
+cryptography
